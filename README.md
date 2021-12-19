@@ -6,7 +6,7 @@ Hesperian distributes this book in around 30 individual pdf files - I have simpl
 
 I own NO PART of this: I am redistributing it under Hesperian's [open copyright](https://hesperian.org/about/open-copyright) license, which I applaud them for - no one should have to pay for this information.
 
-That being said, please [support them](https://store.hesperian.org/ctgy/donations.html) with your money if you can - I don't know much about them, but it seems like they are doing awesome stuff and providing free information like this probably doesn't pay their bills
+That being said, please [support them](https://store.hesperian.org/ctgy/donations.html) with your money if you can - I don't know much about them, but it seems like they are doing awesome stuff and providing free information like this probably doesn't pay their bills.
 
 # From the book's introduction page:
 
